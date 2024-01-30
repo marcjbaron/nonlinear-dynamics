@@ -1,0 +1,11 @@
+README.md
+setup.py
+nonlinear_dynamics/__init__.py
+nonlinear_dynamics/functions.py
+nonlinear_dynamics/plotting.py
+nonlinear_dynamics/script.py
+nonlinear_dynamics.egg-info/PKG-INFO
+nonlinear_dynamics.egg-info/SOURCES.txt
+nonlinear_dynamics.egg-info/dependency_links.txt
+nonlinear_dynamics.egg-info/requires.txt
+nonlinear_dynamics.egg-info/top_level.txt

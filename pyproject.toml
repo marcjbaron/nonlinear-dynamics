@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "nonlinear-dynamics"
+version = "0.1.0"
+description = ""
+authors = ["Marc Baron <marcjbaron@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.8, <3.12"
+matplotlib = "^3.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

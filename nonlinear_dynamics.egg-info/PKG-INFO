@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: nonlinear-dynamics
+Version: 0.1.0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Marc Baron
+Author-email: marcjbaron@gmail.com
+License: UNKNOWN
+Description: Apps showcasing concepts from the Complexity Explorer Nonlinear Dynamics and Chaos course; apps developed in [Marimo](marimo.io)
+        
+Platform: UNKNOWN
+Requires-Python: >=3.8,<3.12
